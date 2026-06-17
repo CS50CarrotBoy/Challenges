@@ -14,7 +14,7 @@ The objective is to build a complete proof-of-concept pipeline that ingests vide
 
 
 
-A suggested dataset of approximately 2,000 labelled images is accessible here https://universe.roboflow.com/mamad-vira/military-vehicle-m5bvw for model training and validation, along with a 7-minute test video for evaluation.
+A suggested dataset of approximately 2,000 labelled images is accessible here https://universe.roboflow.com/mamad-vira/military-vehicle-m5bvw for model training and validation. A 9-minute test video for evaluation can be found here https://www.youtube.com/watch?v=w9hzh2Yn13c. You may use other datasets and test videos if you wish.
 
 
 
